@@ -111,4 +111,3 @@ The simplification logic for both versions relies on the same core algorithm:
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-*(Suggestion: Create a file named `LICENSE` and add the MIT License text to it.)*
