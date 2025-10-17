@@ -38,23 +38,7 @@ The core logic is based on the Karnaugh Map method, systematically identifying g
 
 ---
 
-## 📁 Project Structure
 
-Here is a recommended folder structure for your repository to keep things organized.
-
-```
-.
-├── 8051_simplifier/
-│   ├── main.c                    # Keil C source code for the 8051
-│   ├── boolean_simplifier.hex    # Compiled hex file for programming/simulation
-│   └── proteus_simulation/
-│       └── boolean_simplifier.pdsprj # The Proteus project file
-│
-├── arduino_simplifier/
-│   └── arduino_simplifier.ino      # The Arduino sketch
-│
-└── README.md                       # This file
-```
 
 ---
 
