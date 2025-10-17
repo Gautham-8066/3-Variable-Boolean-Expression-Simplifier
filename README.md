@@ -58,7 +58,7 @@ This version is designed for quick testing and detailed output. It communicates 
 * [Arduino IDE](https://www.arduino.cc/en/software)
 
 #### How to Use
-1.  Open the `arduino_simplifier/boolean_simplifier.c` file in the Arduino IDE.
+1.  Open the `Arduino_implementation/boolean_simplifier.c` file in the Arduino IDE.
 2.  Select your board and port from the **Tools** menu.
 3.  Upload the sketch to your Arduino.
 4.  Open the **Serial Monitor** (Ctrl+Shift+M) and set the baud rate to **9600**.
