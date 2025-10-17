@@ -3,7 +3,6 @@
 A robust tool that simplifies 3-variable Boolean expressions using Karnaugh Map (K-map) logic. This project provides two separate implementations: one for the **Arduino platform** with a serial interface, and another for an **8051 (AT89S52) microcontroller** with a keypad for input and an LCD for output.
 
 ![8051 Proteus Simulation GIF](https://i.imgur.com/your-gif-url.gif)
-*(Suggestion: Record a short GIF of your Proteus simulation and replace the link above!)*
 
 ---
 
