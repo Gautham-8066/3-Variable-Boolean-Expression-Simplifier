@@ -84,7 +84,7 @@ This is a standalone hardware implementation that does not require a computer to
 * An 8051 programmer (if building physical hardware)
 
 #### How to Use (Proteus Simulation)
-1.  Open the `8051_simplifier/proteus_simulation/boolean_simplifier.pdsprj` file in Proteus.
+1.  Open the `8051_simplifier/proteus_simulation/embedded.pdsprj` file in Proteus.
 2.  Double-click the AT89S52 microcontroller component.
 3.  In the properties window, click the folder icon next to "Program File" and navigate to the `8051_simplifier/boolean_simplifier.hex` file.
 4.  Click **OK** to load the hex file.
