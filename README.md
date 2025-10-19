@@ -106,6 +106,7 @@ The simplification logic for both versions relies on the same core algorithm:
 3.  **Output Formatting**: The resulting terms are concatenated with `+` signs to form the final Sum-of-Products expression.
 
 ---
+![8051 Proteus Simulation](./8051_implementation/booleansimplifier.jpg)
 
 ## 📜 License
 
