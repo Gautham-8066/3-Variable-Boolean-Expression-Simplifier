@@ -106,7 +106,6 @@ The simplification logic for both versions relies on the same core algorithm:
 3.  **Output Formatting**: The resulting terms are concatenated with `+` signs to form the final Sum-of-Products expression.
 
 ---
-[WhatsApp Image 2025-10-19 at 07 53 00_697e4d92](https://github.com/user-attachments/assets/6c048742-a397-4091-84b0-1f9ef723ba4a)
 
 ## 📜 License
 
